@@ -7,6 +7,6 @@ int main()
     cout<<"Hello! What's your name?"<<endl;
     string name;
     cin>>name;
-    cout<<"Hello "<<name<<"!";
-    exit(123);
+    cout<<"Hello "<<name<<"!"<<endl;
+    system("pause");
 }
