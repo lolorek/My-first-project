@@ -8,4 +8,5 @@ int main()
     string name;
     cin>>name;
     cout<<"Hello "<<name<<"!";
+    exit(123);
 }
